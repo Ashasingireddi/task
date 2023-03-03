@@ -2,6 +2,6 @@ node
 {
  stage("Git clone")
   {
-   git branch : "main", url : "https://github.com/sailaja-ganta/demo.git" 
+   git branch : "master", url : "https://github.com/Ashasingireddi/task.git" 
   }
 }
